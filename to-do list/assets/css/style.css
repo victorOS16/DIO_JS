@@ -1,0 +1,7 @@
+* {
+    background-color: azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.content {
+    justify-content: space-evenly;
+}
